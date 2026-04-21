@@ -59,7 +59,7 @@ mvn spring-boot:run
 Sube aqui tus imagenes y ajusta los nombres si quieres:
 
 - `./docs/swagger-1.png`
-![Swagger 1](./docs/swagger-1.png)
+![Swagger 1](./Images/swagger1.png)
 
 - `./docs/swagger-2.png`
-![Swagger 2](./docs/swagger-1.png)
+![Swagger 2](./Images/swagger2.png)
