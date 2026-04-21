@@ -56,10 +56,6 @@ mvn spring-boot:run
 
 ## Swagger (capturas)
 
-Sube aqui tus imagenes y ajusta los nombres si quieres:
+![Swagger1](/monolito/Images/swager1.png)
 
-- `./docs/swagger-1.png`
-![Swagger 1](/monolito/Images/swagger1.png)
-
-- `./docs/swagger-2.png`
-![Swagger 2](/monolito/Images/swagger2.png)
+![Swagger2](/monolito/Images/swager2.png)
